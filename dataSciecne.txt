@@ -1,0 +1,16 @@
+Getting Started with Data Science, Here are the things that should be focused on.
+
+1. Python/R Programming Language.
+2. Apache Spark
+3. Hadoop
+4. SQL Programming
+5. Data Visualizations(Plotly, Highcharts, D3.js, Tableau)
+6. Dealing with Unstructured Data
+7. Machine Learning
+8. Deep Learning
+9. Computer Vision
+10. Flask/django/shiny Frameworks
+11. NLP (Spacy)
+12. Recommendation Engines
+
+These Technologies can be learnt from Youtube, Udemy, Udacity, Coursera, Edx, Simplilearn, Edureka, Analytics Vidhya etc.
